@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.17.0",
+    "lodash": "^4.17.4",
+    "moment": "^2.19.1",
+    "mongodb": "^2.2.33"
+  }
+}
